@@ -1,0 +1,10 @@
+[user]
+	name = Mark Micchelli
+	email = markmicchelli@gmail.com
+[alias]
+	cm = commit
+	ch = checkout
+	br = branch
+	st = status
+	lg = log
+	df = diff
